@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 13e109d523cfe0844842e387ff25a8a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3752
+        width: 244
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dc57b8661cbe4ab6bf99bdbd8fdf2
+      internalID: 166905183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_5
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3776
+        width: 285
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabe179f2e899894c97f2aebd59f1a30
+      internalID: -1931537280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_6
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3787
+        width: 317
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c0cac19abc034c80dc71faa19899a
+      internalID: -1525539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_7
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4122
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361b3c9f3862a848b8125e62b526884
+      internalID: 603193391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_8
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 3776
+        width: 246
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab753eaa0a43364cb5d632844ae4e7f
+      internalID: -610580788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_9
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4113
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd420f574425bb448273829f223d3b9
+      internalID: 255117395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_10
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 3752
+        width: 285
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae8d10fd0807449a1009ed5c7c8af6
+      internalID: -473973546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3007
+        width: 281
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57000bde03f660f4498556a581cf7941
+      internalID: 1919884317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3023
+        width: 297
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4ee71c56c490842a3e72c3cf6efe10
+      internalID: 1916386556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_16
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 3042
+        width: 314
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d6a6dbc5c647740aa2661c96760f38
+      internalID: 1494768506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3028
+        width: 297
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ac056838cc6348bf926b5d17616e5
+      internalID: 1287537132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_21
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 3009
+        width: 282
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5796d750ba064949881628b40fe6238
+      internalID: 1756583112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2273
+        width: 272
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58bf6799455de48a477fba9ead0387
+      internalID: 321475822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_23
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2275
+        width: 222
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650cf8fa1d26a9429896a3c5607816e
+      internalID: -747552941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_24
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2282
+        width: 215
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d143a5cecc3e4a8036a885430d407
+      internalID: -862947448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_25
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2269
+        width: 217
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab5819e19300d94cbd46885dc4aa77b
+      internalID: 1666991263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_26
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 2277
+        width: 241
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2b7a3484745e42ba2e991b020c9f5
+      internalID: -1539400727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1526
+        width: 268
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249a2917c0ce214c869da35ade24bba
+      internalID: -1246299571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_28
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1526
+        width: 220
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48bd28b505c504197d4ed78cabca4a
+      internalID: 835665422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_29
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1535
+        width: 219
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd1ee5ae494924cac47a57bdb37d60
+      internalID: 342482720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_31
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 1524
+        width: 218
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2c71922a85ee143957f2caf51cf32b
+      internalID: -783735502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01-Sprite BimBim-01_32
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 1535
+        width: 234
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e427e55301e2e469beccff8f1f5f0b
+      internalID: 1561161234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      01-Sprite BimBim-01_7: 603193391
+      01-Sprite BimBim-01_9: 255117395
+      01-Sprite BimBim-01_8: -610580788
+      01-Sprite BimBim-01_20: 520604461
+      01-Sprite BimBim-01_24: -862947448
+      01-Sprite BimBim-01_25: 1666991263
+      01-Sprite BimBim-01_0: 997098023
+      01-Sprite BimBim-01_4: -337935204
+      01-Sprite BimBim-01_15: -1750295419
+      01-Sprite BimBim-01_10: -473973546
+      01-Sprite BimBim-01_17: 81776221
+      01-Sprite BimBim-01_12: 1928218404
+      01-Sprite BimBim-01_32: 1561161234
+      01-Sprite BimBim-01_18: -1058871648
+      01-Sprite BimBim-01_19: 1287537132
+      01-Sprite BimBim-01_11: 1919884317
+      01-Sprite BimBim-01_16: 1494768506
+      01-Sprite BimBim-01_21: 1756583112
+      01-Sprite BimBim-01_2: 328807654
+      01-Sprite BimBim-01_5: -1931537280
+      01-Sprite BimBim-01_22: 321475822
+      01-Sprite BimBim-01_30: 2099993179
+      01-Sprite BimBim-01_13: 1916386556
+      01-Sprite BimBim-01_31: -783735502
+      01-Sprite BimBim-01_26: -1539400727
+      01-Sprite BimBim-01_3: -1280980240
+      01-Sprite BimBim-01_14: 290432717
+      01-Sprite BimBim-01_29: 342482720
+      01-Sprite BimBim-01_23: -747552941
+      01-Sprite BimBim-01_27: -1246299571
+      01-Sprite BimBim-01_1: 166905183
+      01-Sprite BimBim-01_6: -1525539035
+      01-Sprite BimBim-01_28: 835665422
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

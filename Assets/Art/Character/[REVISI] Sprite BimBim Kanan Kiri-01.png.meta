@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 3a0b36ce2c2ba8741974f1299dbdad36
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_0'
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3818
+        width: 312
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b14f8f22ca614297c5efbecf3d131
+      internalID: -1922519543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_1'
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3794
+        width: 242
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398fcf0079b07f141add8ed7f421d312
+      internalID: 1193851778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_2'
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3780
+        width: 216
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366efbec9d765b6498a0ac351b5762ae
+      internalID: 2071890994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_3'
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 3787
+        width: 240
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff19425efe849340b17355656c1e76b
+      internalID: 843213316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_4'
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 3811
+        width: 296
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0e1ac18782a940abc5a58dcef6234
+      internalID: -122759071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_5'
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3038
+        width: 240
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba6c2f11b866874481c30e71da39252
+      internalID: -1928785216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_6'
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3031
+        width: 213
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4e243668f233a4ca911c1c4af56860
+      internalID: 1867910440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_7'
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 3044
+        width: 244
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679921f9cc4a8e04dbcd2bfa5cf0af31
+      internalID: 249474702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_8'
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 2286
+        width: 215
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72b99625e2ef549ae10c6caa556824
+      internalID: 712687398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_9'
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1568
+        width: 316
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bdb17f5c5402d499cd82784b8971c6
+      internalID: 1470104286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_10'
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1544
+        width: 243
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8b4289063b0d47b9fb5fe4da503f3
+      internalID: 2104529888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_11'
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1530
+        width: 215
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f48d13580b97d429565b5c8b774ae0
+      internalID: -1862889955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_12'
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 1539
+        width: 241
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8576b61810347c4f844be72646a029f
+      internalID: -1668534772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_13'
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 1563
+        width: 296
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262a4837805a5e4091750949bba2847
+      internalID: 960275713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_14'
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 786
+        width: 242
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea97de2fca7cad4b9df0225606966e9
+      internalID: -587448259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_15'
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 779
+        width: 215
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefafc8b3cc9fa14b9e139186465c99a
+      internalID: 997752825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_16'
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 792
+        width: 244
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddaf9c43c8e9c04a842d3be653b6c6a
+      internalID: -429494617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[REVISI] Sprite BimBim Kanan Kiri-01_17'
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 34
+        width: 215
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bfe26375bfecc4cbce6324a47960ce
+      internalID: -1810049403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[REVISI] Sprite BimBim Kanan Kiri-01_11': -1862889955
+      '[REVISI] Sprite BimBim Kanan Kiri-01_2': 2071890994
+      '[REVISI] Sprite BimBim Kanan Kiri-01_17': -1810049403
+      '[REVISI] Sprite BimBim Kanan Kiri-01_12': -1668534772
+      '[REVISI] Sprite BimBim Kanan Kiri-01_13': 960275713
+      '[REVISI] Sprite BimBim Kanan Kiri-01_1': 1193851778
+      '[REVISI] Sprite BimBim Kanan Kiri-01_9': 1470104286
+      '[REVISI] Sprite BimBim Kanan Kiri-01_15': 997752825
+      '[REVISI] Sprite BimBim Kanan Kiri-01_10': 2104529888
+      '[REVISI] Sprite BimBim Kanan Kiri-01_8': 712687398
+      '[REVISI] Sprite BimBim Kanan Kiri-01_16': -429494617
+      '[REVISI] Sprite BimBim Kanan Kiri-01_0': -1922519543
+      '[REVISI] Sprite BimBim Kanan Kiri-01_3': 843213316
+      '[REVISI] Sprite BimBim Kanan Kiri-01_4': -122759071
+      '[REVISI] Sprite BimBim Kanan Kiri-01_14': -587448259
+      '[REVISI] Sprite BimBim Kanan Kiri-01_5': -1928785216
+      '[REVISI] Sprite BimBim Kanan Kiri-01_6': 1867910440
+      '[REVISI] Sprite BimBim Kanan Kiri-01_7': 249474702
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
